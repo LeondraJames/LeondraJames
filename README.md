@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leondra.</h1>
+<h1 align="center">Hi 👋🏽, I'm Leondra.</h1>
 <h3 align="center">Data Science | Python | R | SQL | Java   </h3>
 <img align="right" alt="Coding" width="400" src="https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/100/2021/07/7992483484102289972.jpg">
 
