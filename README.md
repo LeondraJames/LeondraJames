@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leondra.</h1>
-<h3 align="center">Data Science | Python | R | SQL | Java | Linux  </h3>
+<h3 align="center">Data Science | Python | R | SQL | Java   </h3>
+
+Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonzalez (nee James) and I am an LA-based 📉 Data Scientist with a passion for sci-fi ⭐, table top games 🎲, video games 🎮, prog rock /  metal 🎸, anime, animals 🐱, and B-list horror and action films 🎬. 
 
 - 💼 I’m currently working at **Microsoft as a Senior Analytical Program Manager**
 
