@@ -22,7 +22,7 @@ Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonz
 
 - 📫 How to reach me **leondra.james@gmail.com**
 
-- ⚡ Fun fact **In high school, I used to play competitive chess for the USCF and have won state and national-level awards! 🏆**
+- ⚡ Fun fact **In high school, I used to play competitive chess for the USCF and have won state and national-level awards! 🏆♟️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
