@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leondra.</h1>
-<h3 align="center">Data Science | Python | R | SQL | Java |</h3>
+<h3 align="center">Data Science | Python | R | SQL | Java | Linux  </h3>
 
 - 💼 I’m currently working at **Microsoft as a Senior Analytical Program Manager**
 
