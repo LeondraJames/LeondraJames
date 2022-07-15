@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Leondra](C:\Users\legonzalez\Downloads\FB_IMG_1657920792469.jpg]
+
 <!--
 **LeondraJames/LeondraJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
