@@ -11,7 +11,7 @@ Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonz
 
 - 📓 Currently learning **Deep learning network architectures and tuning (RNNs, LSTMs, CNNs, GCNs, GANs, etc.)**
 
-- 🎵 Favorite Band [https://www.youtube.com/watch?v=Z5NoQg8LdDk](https://www.youtube.com/watch?v=Z5NoQg8LdDk)
+- 🎵 Favorite Band [Polyphia](https://www.youtube.com/watch?v=Z5NoQg8LdDk)
 
 - 🔋 Passionate / Energized about **POC in STEM**
 
