@@ -10,7 +10,7 @@ Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonz
 
 - 📚 Currently studying **PhD in Information Technology, Data Science and Big Data Analytics at University of the Cumberlands, School of Computer and Information Science**
 
-- 📓 Currently learning **Deep learning network architectures and tuning (RNNs, LSTMs, CNNs, GCNs, GANs, etc.) and Java**
+- 📓 Currently learning **Deep learning network architectures and tuning (RNNs, LSTMs, CNNs, GCNs, GANs, etc.), network analysis, Java, and Bayesian inference**
 
 - 🎵 Currently jamming to [Polyphia](https://www.youtube.com/watch?v=Z5NoQg8LdDk)
 
