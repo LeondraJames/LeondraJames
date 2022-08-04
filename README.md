@@ -6,7 +6,7 @@ Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonz
 
 - 💼 I’m currently working at **Microsoft as a Senior Analytical Program Manager**
 
-- 🎓 Alumni Affiliations **Carnegie Mellon University, Heinz College, Otterbein University, Quantic School of Business and Technology**
+- 🎓 Alumni Affiliations **Carnegie Mellon University, Otterbein University, Quantic School of Business and Technology**
 
 - 📚 Currently studying **PhD in Information Technology, Data Science and Big Data Analytics at University of the Cumberlands, School of Computer and Information Science**
 
