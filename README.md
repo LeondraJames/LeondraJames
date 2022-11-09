@@ -18,7 +18,7 @@ Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonz
 
 - 🔋 Passionate / Energized about **POC in STEM**
 
-- 🏡 Hometown **Columbus, OH (Go Bucks!)**
+- 🏙 Location **Indianapolis, IN**
 
 - 📫 How to reach me **leondra.james@gmail.com**
 
