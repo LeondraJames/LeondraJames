@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Leondra.</h1>
 <h3 align="center">Data Science | Machine Learning | Python | R | SQL | Kusto | Java   </h3>
-<img align="center" alt="" width="300" height=400 height = "300" src="https://ibb.co/Smyc5rs">
+<img align="center" alt="" width="300" height=400 height = "300" src="https://i.ibb.co/PWjMFQm/bd8725edbce92e74037cdffb1e5d3b66.jpg">
 
 
 Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonzalez (nee James) and I am a 📉 Data Scientist with a passion for sci-fi ⭐, table top games 🎲, video games 🎮, prog rock /  metal 🎸, anime, animals 🐱, and B-list horror and action films 🎬. 
