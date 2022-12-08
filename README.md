@@ -2,8 +2,6 @@
 <h3 align="center">Data Science | Python | R | SQL | Java   </h3>
 <img align="center" alt="" width="300" src="https://ibb.co/Smyc5rs](https://ibb.co/Smyc5rs"><img src="https://i.ibb.co/PWjMFQm/bd8725edbce92e74037cdffb1e5d3b66.jpg">
 
-<div style="text-align: center;><img class="aligncenter wp-image-10658 size-full" src="https://i.ibb.co/PWjMFQm/bd8725edbce92e74037cdffb1e5d3b66.jpg" alt="" width="663" height="726" /></div>
-
 
 Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonzalez (nee James) and I am a 📉 Data Scientist with a passion for sci-fi ⭐, table top games 🎲, video games 🎮, prog rock /  metal 🎸, anime, animals 🐱, and B-list horror and action films 🎬. 
 
