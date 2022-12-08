@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Leondra.</h1>
-<h3 align="center">Data Science | Python | R | SQL | Java   </h3>
+<h3 align="center">Data Science | Machine Learning | Python | R | SQL | Kusto | Java   </h3>
 <img align="center" alt="" width="300" src="https://ibb.co/Smyc5rs](https://ibb.co/Smyc5rs"><img src="https://i.ibb.co/PWjMFQm/bd8725edbce92e74037cdffb1e5d3b66.jpg">
 
 
