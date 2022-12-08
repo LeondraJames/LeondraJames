@@ -13,7 +13,7 @@ Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonz
 
 - 📓 Currently learning **Deep learning architectures and tuning (RNNs, LSTMs, CNNs, GCNs, GANs, etc.), network/graph modeling, Java, and Bayesian inference**
 
-- 🎵 Currently jamming to [Polyphia](https://www.youtube.com/watch?v=Z5NoQg8LdDk)
+- 🎵 Currently jamming to [Polyphia](https://www.youtube.com/watch?v=1JNmz17gnMw)
 
 - 📺 Currently obsessed with Cobra Kai, The Orville, and Succession
 
