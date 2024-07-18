@@ -9,21 +9,23 @@ Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonz
 
 - 🎓 Alumni Affiliations **Carnegie Mellon University, Otterbein University, Quantic School of Business and Technology**
 
-- 📚 Currently studying **PhD in Information Technology, Data Science and Big Data Analytics at University of the Cumberlands, School of Computer and Information Science**
+- 📚 Currently studying **PhD in Information Technology with a Specialization in Artificial Intelligence at University of the Cumberlands, School of Computer and Information Science**
 
-- 📓 Currently learning **Deep learning architectures and tuning (RNNs, LSTMs, CNNs, GCNs, GANs, etc.), network/graph modeling, Java, and Bayesian inference**
+- 📓 Currently learning **Deep learning architectures and tuning (RNNs, LSTMs, autoencoders, transformers, etc.) and LLMs**
 
 - 🎵 Currently jamming to [Polyphia](https://www.youtube.com/watch?v=1JNmz17gnMw)
 
-- 📺 Currently obsessed with Cobra Kai, The Orville, and Succession
+- 📺 Currently obsessed with Cobra Kai, Love Island, Yellowstone
 
-- 🔋 Passionate / Energized about **POC in STEM**
+- 🔋 Passionate / Energized about **Inclusion in STEM**
 
 - 🏙 Location **Indianapolis, IN**
 
 - 📫 How to reach me **leondra.james@gmail.com**
-
-- ⚡ Fun fact **In high school, I used to play competitive chess for the USCF and have won state and national-level awards! 🏆♟️**
+  
+- 📖 Read my book, ["Cracking the Data Science Interview"](https://www.amazon.com/Cracking-Data-Science-Interview-industry-ebook/dp/B0CV84YVCT/ref=sr_1_4?crid=WZDNXJEE7KJ1&dib=eyJ2IjoiMSJ9.MHG7FrZsxVUx3I6fbbfvwQEaVUaydi5Uukh921X5WC3fHl56hDG8oRAh-ZQuLhzJwmNOsaeObb06azSZyCOEDygJwkBiuUGMFp51Op7vlI1g9jc1vWO42Gpz4nop0MKAsX2qkxkXp-f0psh8-ikfktszpewU8bK-QBLHD4M2ANBp6r3mTfXNO6aPvaF2aHiKldanP5LxUfKzo-1KY1gPPvGIqTbWQ0Swl3U3nEY2g9Q.9f0h7LSVqNVQZeN3ORwUeOGwiLE42CgBo8pkA_UqZ_c&dib_tag=se&keywords=cracking+the+data+science+interview&qid=1721278096&sprefix=cracking+the+data+science+intervie%2Caps%2C189&sr=8-4)
+  
+- ⚡ Fun fact **Former high school United States Chess Federation state and national-level placements 🏆♟️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
