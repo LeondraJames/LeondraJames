@@ -3,21 +3,19 @@
 <img align="center" alt="" width="400" height=400 height = "300" src="https://i.ibb.co/PWjMFQm/bd8725edbce92e74037cdffb1e5d3b66.jpg">
 
 
-Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonzalez (nee James) and I am a 📉 Data Scientist with a passion for sci-fi ⭐, table top games 🎲, video games 🎮, prog rock /  metal 🎸, anime, animals 🐱, and B-list horror and action films 🎬. 
+Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonzalez (nee James) and I am an 📉 AI engineer with a passion for sci-fi ⭐, table top games 🎲, video games 🎮, prog rock /  metal 🎸, anime, animals 🐱, Star Trek 🖖, and B-list horror and action films 🎬. 
 
-- 💼 I’m currently working at **Microsoft as a Senior Data & Applied Scientist**
+- 💼 I’m currently working at **Eli Lilly as a Associate Director, Customer Personalization Insights & Analytics**
+  
+- 🛄 Former Institutions: Microsoft, Google, Amazon (Prime & Video), Saatchi & Saatchi, Wpromote, Twentieth Century Fox
+  
+- 🎓 Alumni Affiliations **Carnegie Mellon University, Otterbein University, Quantic School of Business and Technology, University of the Cumberlands**
+  
+- 📚 Recent grad of **PhD in Information Technology with a Specialization in Artificial Intelligence at University of the Cumberlands, School of Computer and Information Science**
 
-- 🎓 Alumni Affiliations **Carnegie Mellon University, Otterbein University, Quantic School of Business and Technology**
-
-- 📚 Currently studying **PhD in Information Technology with a Specialization in Artificial Intelligence at University of the Cumberlands, School of Computer and Information Science**
-
-- 📓 Currently learning **Deep learning architectures and tuning (RNNs, LSTMs, autoencoders, transformers, etc.) and LLMs**
+- 📓 Currently reading **The Fellowship of the Ring**
 
 - 🎵 Currently jamming to [Polyphia](https://www.youtube.com/watch?v=1JNmz17gnMw)
-
-- 📺 Currently obsessed with Cobra Kai, Love Island, Yellowstone
-
-- 🔋 Passionate / Energized about **Inclusion in STEM**
 
 - 🏙 Location **Indianapolis, IN**
 
