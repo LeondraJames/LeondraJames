@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋🏽, I'm Leondra.</h1>
-<h3 align="center">Data Science | Machine Learning | Python | R | SQL | Kusto | Java   </h3>
-<img align="center" alt="" width="400" height=500 height = "300" src="https://github.com/LeondraJames/LeondraJames/blob/729d94d869f991658154de0faf00a86be1354e7f/Designer%20(2).png">
+<h3 align="center">AI Engineering | Data Science | Machine Learning | Python | R | SQL | Kusto | Java   </h3>
+
+<p align="center">
+  <img
+    src="https://github.com/LeondraJames/LeondraJames/blob/729d94d869f991658154de0faf00a86be1354e7f/Designer%20(2).png?raw=true"
+    alt="Profile Image"
+    width="400"
+  />
+</p>
 
 
 Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonzalez (nee James) and I am an 📉 AI engineer with a passion for sci-fi ⭐, table top games 🎲, video games 🎮, prog rock /  metal 🎸, anime, animals 🐱, Star Trek 🖖, and B-list horror and action films 🎬. 
