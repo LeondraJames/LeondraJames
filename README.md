@@ -11,7 +11,7 @@ Welcome to my Github! I'm so glad that you're here 😊. My name is Leondra Gonz
   
 - 🎓 Alumni Affiliations **Carnegie Mellon University, Otterbein University, Quantic School of Business and Technology, University of the Cumberlands**
   
-- 📚 Recent grad of **PhD in Information Technology with a Specialization in Artificial Intelligence at University of the Cumberlands, School of Computer and Information Science**
+- 📚 **PhD in Information Technology with a Specialization in Artificial Intelligence at University of the Cumberlands, School of Computer and Information Science**
 
 - 📓 Currently reading **The Fellowship of the Ring**
 
